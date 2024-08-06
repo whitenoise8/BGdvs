@@ -1,0 +1,13 @@
+Package: BGdvs
+Type: Package
+Title: Dynamic variable selection in high-dimensional linear regressions (Bernardi, Bianchi, Bianco, 2024) 
+Version: 1.0
+Date: 2024-08-06
+Author: Nicolas Bianco
+Maintainer: Nicolas Bianco <nicolas.bianco@upf.edu>
+Description: Dynamic variable selection in high-dimensional linear regressions with time varying parameters and stochastic volatility. The estimation algorithm uses approximate Bayesian inference, namely Variational Bayes with mean-field approach, but an MCMC (slow) implementation is also available.
+Imports: 
+    Rcpp
+LinkingTo: Rcpp, RcppArmadillo
+Depends: klaR, stochvol, pgdraw, Matrix, diagonals, splines2
+RoxygenNote: 7.2.1
