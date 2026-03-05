@@ -4,7 +4,7 @@
 3) Install *BGdvs* using `install_github("whitenoise8/BGdvs")`
 
 ### Reference
-Bernardi, Bianchi, and Bianco (2024). "Dynamic variable selection in high-dimensional regressions". In *Arxiv*.
+Bianco, Bernardi, and Bianchi (2026). "Scalable variational Bayes inference for dynamic variable selection". In *Journal of Computational and Graphical Statistics*.
 
 ### Issues/Comments/Requests 
 Feel free to mail me *nicolas.bianco@kit.edu*
